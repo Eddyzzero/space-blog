@@ -131,7 +131,7 @@ $section_message = '';
 <body>
 
     <header>
-        <img src="./img/Duckspace.png" alt="image">
+        <img src="./img/Duckspace2.png" alt="image">
     </header>
     
         <!-- Menu -->
@@ -169,6 +169,5 @@ $section_message = '';
     <?php echo HTMLInsertFooter(); ?>    
 
     <!-- Scripts -->
-    <script src="assets/js/app.js"></script>   
-</body>
+</body>   
 </html>

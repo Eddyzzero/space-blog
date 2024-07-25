@@ -11,7 +11,7 @@ require 'app/fcts-html.php';
 <body>
 
     <header>
-        <img src="./img/Duckspace.png" alt="image">
+        <img src="./img/Duckspace2.png" alt="image">
     </header>
     
         <!-- Menu -->

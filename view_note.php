@@ -32,7 +32,7 @@ if (!$note) {
 <body>
 
 <header>
-        <img src="./img/Duckspace.png" alt="image">
+        <img src="./img/Duckspace2.png" alt="image">
     </header>
 
     <?php echo HTMLInsertMenu(); ?>
