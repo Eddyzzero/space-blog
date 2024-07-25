@@ -42,8 +42,15 @@ body {
     font-family: 'Poppins', sans-serif;
     font-weight: 300;
     font-size: 1.1em;
+    width: 100%;
+    margin: 0 auto;
     height: 100vh;
     font-size: 0.9rem;
+    padding: 0 10vh;
+}
+
+html {
+    backdrop-filter: blur(5px);
 }
 
 ol, ul, li, a {
